@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\office10\\Desktop\\zadatak01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B2AFC8-BFD5-46D0-AFDF-0E2D16953CB2}|zadatak10\\zadatak10.csproj|c:\\users\\office10\\desktop\\zadatak01\\zadatak10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B2AFC8-BFD5-46D0-AFDF-0E2D16953CB2}|zadatak10\\zadatak10.csproj|solutionrelative:zadatak10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E236F8-F494-422F-BD4F-C9B9A7810AFA}|zadatak09\\zadatak09.csproj|c:\\users\\office10\\desktop\\zadatak01\\zadatak09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E236F8-F494-422F-BD4F-C9B9A7810AFA}|zadatak09\\zadatak09.csproj|solutionrelative:zadatak09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0450A92-8E05-4F89-90CE-8037F527EF9C}|zadatak07\\zadatak07.csproj|c:\\users\\office10\\desktop\\zadatak01\\zadatak07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0450A92-8E05-4F89-90CE-8037F527EF9C}|zadatak07\\zadatak07.csproj|solutionrelative:zadatak07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86433815-04B8-4CDD-BC1B-CAC4399918F3}|zadatak6\\zadatak6.csproj|c:\\users\\office10\\desktop\\zadatak01\\zadatak6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86433815-04B8-4CDD-BC1B-CAC4399918F3}|zadatak6\\zadatak6.csproj|solutionrelative:zadatak6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABE42A7-67D7-4DB6-A442-F7CD17750CC7}|zadatak05\\zadatak05.csproj|c:\\users\\office10\\desktop\\zadatak01\\zadatak05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABE42A7-67D7-4DB6-A442-F7CD17750CC7}|zadatak05\\zadatak05.csproj|solutionrelative:zadatak05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\zadatak01\\zadatak05\\Program.cs",
+              "RelativeDocumentMoniker": "zadatak05\\Program.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\zadatak01\\zadatak05\\Program.cs",
+              "RelativeToolTip": "zadatak05\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:34:06.894Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\zadatak01\\zadatak10\\Program.cs",
+              "RelativeDocumentMoniker": "zadatak10\\Program.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\zadatak01\\zadatak10\\Program.cs",
+              "RelativeToolTip": "zadatak10\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:30:32.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\zadatak01\\zadatak09\\Program.cs",
+              "RelativeDocumentMoniker": "zadatak09\\Program.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\zadatak01\\zadatak09\\Program.cs",
+              "RelativeToolTip": "zadatak09\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:23:23.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\zadatak01\\zadatak07\\Program.cs",
+              "RelativeDocumentMoniker": "zadatak07\\Program.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\zadatak01\\zadatak07\\Program.cs",
+              "RelativeToolTip": "zadatak07\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:01:53.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\zadatak01\\zadatak6\\Program.cs",
+              "RelativeDocumentMoniker": "zadatak6\\Program.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\zadatak01\\zadatak6\\Program.cs",
+              "RelativeToolTip": "zadatak6\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:49:44.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
