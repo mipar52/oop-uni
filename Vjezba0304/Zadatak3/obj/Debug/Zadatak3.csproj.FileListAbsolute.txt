@@ -1,0 +1,7 @@
+C:\Users\office10\Desktop\Vjezba0304\Zadatak3\bin\Debug\Zadatak3.exe.config
+C:\Users\office10\Desktop\Vjezba0304\Zadatak3\bin\Debug\Zadatak3.exe
+C:\Users\office10\Desktop\Vjezba0304\Zadatak3\bin\Debug\Zadatak3.pdb
+C:\Users\office10\Desktop\Vjezba0304\Zadatak3\obj\Debug\Zadatak3.csproj.AssemblyReference.cache
+C:\Users\office10\Desktop\Vjezba0304\Zadatak3\obj\Debug\Zadatak3.csproj.CoreCompileInputs.cache
+C:\Users\office10\Desktop\Vjezba0304\Zadatak3\obj\Debug\Zadatak3.exe
+C:\Users\office10\Desktop\Vjezba0304\Zadatak3\obj\Debug\Zadatak3.pdb

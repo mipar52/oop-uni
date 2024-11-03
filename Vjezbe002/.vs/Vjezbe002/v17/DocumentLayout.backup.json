@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\office10\\Desktop\\Vjezbe002\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{442A9167-D3C7-4FD7-BAD9-99C8E6F6429C}|Zadatak01\\Zadatak01.csproj|c:\\users\\office10\\desktop\\vjezbe002\\zadatak01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442A9167-D3C7-4FD7-BAD9-99C8E6F6429C}|Zadatak01\\Zadatak01.csproj|solutionrelative:zadatak01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442A9167-D3C7-4FD7-BAD9-99C8E6F6429C}|Zadatak01\\Zadatak01.csproj|c:\\users\\office10\\desktop\\vjezbe002\\zadatak01\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442A9167-D3C7-4FD7-BAD9-99C8E6F6429C}|Zadatak01\\Zadatak01.csproj|solutionrelative:zadatak01\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442A9167-D3C7-4FD7-BAD9-99C8E6F6429C}|Zadatak01\\Zadatak01.csproj|c:\\users\\office10\\desktop\\vjezbe002\\zadatak01\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442A9167-D3C7-4FD7-BAD9-99C8E6F6429C}|Zadatak01\\Zadatak01.csproj|solutionrelative:zadatak01\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442A9167-D3C7-4FD7-BAD9-99C8E6F6429C}|Zadatak01\\Zadatak01.csproj|c:\\users\\office10\\desktop\\vjezbe002\\zadatak01\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442A9167-D3C7-4FD7-BAD9-99C8E6F6429C}|Zadatak01\\Zadatak01.csproj|solutionrelative:zadatak01\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\Vjezbe002\\Zadatak01\\Color.cs",
+              "RelativeDocumentMoniker": "Zadatak01\\Color.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\Vjezbe002\\Zadatak01\\Color.cs",
+              "RelativeToolTip": "Zadatak01\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:43:55.573Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\Vjezbe002\\Zadatak01\\Point.cs",
+              "RelativeDocumentMoniker": "Zadatak01\\Point.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\Vjezbe002\\Zadatak01\\Point.cs",
+              "RelativeToolTip": "Zadatak01\\Point.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:36:09.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\Vjezbe002\\Zadatak01\\Window.cs",
+              "RelativeDocumentMoniker": "Zadatak01\\Window.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\Vjezbe002\\Zadatak01\\Window.cs",
+              "RelativeToolTip": "Zadatak01\\Window.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:33:25.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\Vjezbe002\\Zadatak01\\Program.cs",
+              "RelativeDocumentMoniker": "Zadatak01\\Program.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\Vjezbe002\\Zadatak01\\Program.cs",
+              "RelativeToolTip": "Zadatak01\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:21:35.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

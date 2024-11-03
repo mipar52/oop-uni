@@ -1,0 +1,14 @@
+D:\Silvije\Vjezba0304\Zadatak1\bin\Debug\Zadatak1.exe.config
+D:\Silvije\Vjezba0304\Zadatak1\bin\Debug\Zadatak1.exe
+D:\Silvije\Vjezba0304\Zadatak1\bin\Debug\Zadatak1.pdb
+D:\Silvije\Vjezba0304\Zadatak1\obj\Debug\Zadatak1.csproj.AssemblyReference.cache
+D:\Silvije\Vjezba0304\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+D:\Silvije\Vjezba0304\Zadatak1\obj\Debug\Zadatak1.exe
+D:\Silvije\Vjezba0304\Zadatak1\obj\Debug\Zadatak1.pdb
+C:\Users\office10\Desktop\Vjezba0304\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\office10\Desktop\Vjezba0304\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\office10\Desktop\Vjezba0304\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\office10\Desktop\Vjezba0304\Zadatak1\obj\Debug\Zadatak1.csproj.AssemblyReference.cache
+C:\Users\office10\Desktop\Vjezba0304\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\office10\Desktop\Vjezba0304\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\office10\Desktop\Vjezba0304\Zadatak1\obj\Debug\Zadatak1.pdb

@@ -1,0 +1,7 @@
+C:\Users\office10\Desktop\zadatak01\zadatak04\bin\Debug\zadatak04.exe.config
+C:\Users\office10\Desktop\zadatak01\zadatak04\bin\Debug\zadatak04.exe
+C:\Users\office10\Desktop\zadatak01\zadatak04\bin\Debug\zadatak04.pdb
+C:\Users\office10\Desktop\zadatak01\zadatak04\obj\Debug\zadatak04.csproj.AssemblyReference.cache
+C:\Users\office10\Desktop\zadatak01\zadatak04\obj\Debug\zadatak04.csproj.CoreCompileInputs.cache
+C:\Users\office10\Desktop\zadatak01\zadatak04\obj\Debug\zadatak04.exe
+C:\Users\office10\Desktop\zadatak01\zadatak04\obj\Debug\zadatak04.pdb

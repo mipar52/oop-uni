@@ -1,0 +1,7 @@
+D:\Silvije\Vjezba5\Zadatak1\bin\Debug\Zadatak1.exe.config
+D:\Silvije\Vjezba5\Zadatak1\bin\Debug\Zadatak1.exe
+D:\Silvije\Vjezba5\Zadatak1\bin\Debug\Zadatak1.pdb
+D:\Silvije\Vjezba5\Zadatak1\obj\Debug\Zadatak1.csproj.AssemblyReference.cache
+D:\Silvije\Vjezba5\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+D:\Silvije\Vjezba5\Zadatak1\obj\Debug\Zadatak1.exe
+D:\Silvije\Vjezba5\Zadatak1\obj\Debug\Zadatak1.pdb
