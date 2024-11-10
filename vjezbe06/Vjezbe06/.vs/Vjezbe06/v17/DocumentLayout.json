@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\office10\\Desktop\\vjezbe06\\Vjezbe06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0CD10-0EAE-428E-A1FA-0D8BCAB6B456}|Zadatak2\\Zadatak2.csproj|c:\\users\\office10\\desktop\\vjezbe06\\vjezbe06\\zadatak2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0CD10-0EAE-428E-A1FA-0D8BCAB6B456}|Zadatak2\\Zadatak2.csproj|solutionrelative:zadatak2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0CD10-0EAE-428E-A1FA-0D8BCAB6B456}|Zadatak2\\Zadatak2.csproj|c:\\users\\office10\\desktop\\vjezbe06\\vjezbe06\\zadatak2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0CD10-0EAE-428E-A1FA-0D8BCAB6B456}|Zadatak2\\Zadatak2.csproj|solutionrelative:zadatak2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F4D766-742B-4808-9BC8-18731067775F}|Zadatak1\\Zadatak1.csproj|c:\\users\\office10\\desktop\\vjezbe06\\vjezbe06\\zadatak1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F4D766-742B-4808-9BC8-18731067775F}|Zadatak1\\Zadatak1.csproj|solutionrelative:zadatak1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F4D766-742B-4808-9BC8-18731067775F}|Zadatak1\\Zadatak1.csproj|c:\\users\\office10\\desktop\\vjezbe06\\vjezbe06\\zadatak1\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F4D766-742B-4808-9BC8-18731067775F}|Zadatak1\\Zadatak1.csproj|solutionrelative:zadatak1\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F4D766-742B-4808-9BC8-18731067775F}|Zadatak1\\Zadatak1.csproj|c:\\users\\office10\\desktop\\vjezbe06\\vjezbe06\\zadatak1\\iremotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F4D766-742B-4808-9BC8-18731067775F}|Zadatak1\\Zadatak1.csproj|solutionrelative:zadatak1\\iremotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\vjezbe06\\Vjezbe06\\Zadatak2\\Book.cs",
+              "RelativeDocumentMoniker": "Zadatak2\\Book.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\vjezbe06\\Vjezbe06\\Zadatak2\\Book.cs",
+              "RelativeToolTip": "Zadatak2\\Book.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:56:49.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\vjezbe06\\Vjezbe06\\Zadatak2\\Program.cs",
+              "RelativeDocumentMoniker": "Zadatak2\\Program.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\vjezbe06\\Vjezbe06\\Zadatak2\\Program.cs",
+              "RelativeToolTip": "Zadatak2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:55:32.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RemoteControl.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\vjezbe06\\Vjezbe06\\Zadatak1\\RemoteControl.cs",
+              "RelativeDocumentMoniker": "Zadatak1\\RemoteControl.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\vjezbe06\\Vjezbe06\\Zadatak1\\RemoteControl.cs",
+              "RelativeToolTip": "Zadatak1\\RemoteControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:45:47.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRemoteControl.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\vjezbe06\\Vjezbe06\\Zadatak1\\IRemoteControl.cs",
+              "RelativeDocumentMoniker": "Zadatak1\\IRemoteControl.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\vjezbe06\\Vjezbe06\\Zadatak1\\IRemoteControl.cs",
+              "RelativeToolTip": "Zadatak1\\IRemoteControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:44:14.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\office10\\Desktop\\vjezbe06\\Vjezbe06\\Zadatak1\\Program.cs",
+              "RelativeDocumentMoniker": "Zadatak1\\Program.cs",
+              "ToolTip": "C:\\Users\\office10\\Desktop\\vjezbe06\\Vjezbe06\\Zadatak1\\Program.cs",
+              "RelativeToolTip": "Zadatak1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:15:11.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
