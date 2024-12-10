@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\vjezbe08\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\Student\Desktop\vjezbe08\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\Student\Desktop\vjezbe08\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\Student\Desktop\vjezbe08\Zadatak1\obj\Debug\Zadatak1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\vjezbe08\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\vjezbe08\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\Student\Desktop\vjezbe08\Zadatak1\obj\Debug\Zadatak1.pdb

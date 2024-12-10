@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\MilanParadina\Ishod3\bin\Debug\Ishod3.exe.config
+C:\Users\Student\Desktop\MilanParadina\Ishod3\bin\Debug\Ishod3.exe
+C:\Users\Student\Desktop\MilanParadina\Ishod3\bin\Debug\Ishod3.pdb
+C:\Users\Student\Desktop\MilanParadina\Ishod3\obj\Debug\Ishod3.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\MilanParadina\Ishod3\obj\Debug\Ishod3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\MilanParadina\Ishod3\obj\Debug\Ishod3.exe
+C:\Users\Student\Desktop\MilanParadina\Ishod3\obj\Debug\Ishod3.pdb

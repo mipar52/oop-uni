@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\MilanParadina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75A9D5EB-7DEE-4C05-9ACC-E305CB525DEB}|Ishod3\\Ishod3.csproj|c:\\users\\student\\desktop\\milanparadina\\ishod3\\class\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A9D5EB-7DEE-4C05-9ACC-E305CB525DEB}|Ishod3\\Ishod3.csproj|solutionrelative:ishod3\\class\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A9D5EB-7DEE-4C05-9ACC-E305CB525DEB}|Ishod3\\Ishod3.csproj|c:\\users\\student\\desktop\\milanparadina\\ishod3\\class\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A9D5EB-7DEE-4C05-9ACC-E305CB525DEB}|Ishod3\\Ishod3.csproj|solutionrelative:ishod3\\class\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A9D5EB-7DEE-4C05-9ACC-E305CB525DEB}|Ishod3\\Ishod3.csproj|c:\\users\\student\\desktop\\milanparadina\\ishod3\\class\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A9D5EB-7DEE-4C05-9ACC-E305CB525DEB}|Ishod3\\Ishod3.csproj|solutionrelative:ishod3\\class\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A9D5EB-7DEE-4C05-9ACC-E305CB525DEB}|Ishod3\\Ishod3.csproj|c:\\users\\student\\desktop\\milanparadina\\ishod3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A9D5EB-7DEE-4C05-9ACC-E305CB525DEB}|Ishod3\\Ishod3.csproj|solutionrelative:ishod3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A9D5EB-7DEE-4C05-9ACC-E305CB525DEB}|Ishod3\\Ishod3.csproj|c:\\users\\student\\desktop\\milanparadina\\ishod3\\interface\\ibuildable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A9D5EB-7DEE-4C05-9ACC-E305CB525DEB}|Ishod3\\Ishod3.csproj|solutionrelative:ishod3\\interface\\ibuildable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A857519-8E8B-480F-A83A-B2B6397BA4A7}|Ishod2\\Ishod2.csproj|c:\\users\\student\\desktop\\milanparadina\\ishod2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A857519-8E8B-480F-A83A-B2B6397BA4A7}|Ishod2\\Ishod2.csproj|solutionrelative:ishod2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A857519-8E8B-480F-A83A-B2B6397BA4A7}|Ishod2\\Ishod2.csproj|c:\\users\\student\\desktop\\milanparadina\\ishod2\\class\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A857519-8E8B-480F-A83A-B2B6397BA4A7}|Ishod2\\Ishod2.csproj|solutionrelative:ishod2\\class\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A857519-8E8B-480F-A83A-B2B6397BA4A7}|Ishod2\\Ishod2.csproj|c:\\users\\student\\desktop\\milanparadina\\ishod2\\class\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A857519-8E8B-480F-A83A-B2B6397BA4A7}|Ishod2\\Ishod2.csproj|solutionrelative:ishod2\\class\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A857519-8E8B-480F-A83A-B2B6397BA4A7}|Ishod2\\Ishod2.csproj|c:\\users\\student\\desktop\\milanparadina\\ishod2\\class\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A857519-8E8B-480F-A83A-B2B6397BA4A7}|Ishod2\\Ishod2.csproj|solutionrelative:ishod2\\class\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBuildable.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod3\\Interface\\IBuildable.cs",
+              "RelativeDocumentMoniker": "Ishod3\\Interface\\IBuildable.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod3\\Interface\\IBuildable.cs",
+              "RelativeToolTip": "Ishod3\\Interface\\IBuildable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:23:16.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod3\\Class\\Computer.cs",
+              "RelativeDocumentMoniker": "Ishod3\\Class\\Computer.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod3\\Class\\Computer.cs",
+              "RelativeToolTip": "Ishod3\\Class\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:20:44.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod3\\Class\\Person.cs",
+              "RelativeDocumentMoniker": "Ishod3\\Class\\Person.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod3\\Class\\Person.cs",
+              "RelativeToolTip": "Ishod3\\Class\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:19:27.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod3\\Class\\Building.cs",
+              "RelativeDocumentMoniker": "Ishod3\\Class\\Building.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod3\\Class\\Building.cs",
+              "RelativeToolTip": "Ishod3\\Class\\Building.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:17:13.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Projector.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod2\\Class\\Projector.cs",
+              "RelativeDocumentMoniker": "Ishod2\\Class\\Projector.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod2\\Class\\Projector.cs",
+              "RelativeToolTip": "Ishod2\\Class\\Projector.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:11:57.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod2\\Class\\Device.cs",
+              "RelativeDocumentMoniker": "Ishod2\\Class\\Device.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod2\\Class\\Device.cs",
+              "RelativeToolTip": "Ishod2\\Class\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:10:57.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TV.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod2\\Class\\TV.cs",
+              "RelativeDocumentMoniker": "Ishod2\\Class\\TV.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod2\\Class\\TV.cs",
+              "RelativeToolTip": "Ishod2\\Class\\TV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:10:55.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod2\\Program.cs",
+              "RelativeDocumentMoniker": "Ishod2\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod2\\Program.cs",
+              "RelativeToolTip": "Ishod2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:10:46.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod3\\Program.cs",
+              "RelativeDocumentMoniker": "Ishod3\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\MilanParadina\\Ishod3\\Program.cs",
+              "RelativeToolTip": "Ishod3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:10:35.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
