@@ -1,0 +1,6 @@
+/Users/milanparadina/Desktop/CSProjects/Exceptions/Zadatak01/bin/Debug/Zadatak01.exe
+/Users/milanparadina/Desktop/CSProjects/Exceptions/Zadatak01/bin/Debug/Zadatak01.pdb
+/Users/milanparadina/Desktop/CSProjects/Exceptions/Zadatak01/obj/Debug/Zadatak01.csproj.AssemblyReference.cache
+/Users/milanparadina/Desktop/CSProjects/Exceptions/Zadatak01/obj/Debug/Zadatak01.csproj.CoreCompileInputs.cache
+/Users/milanparadina/Desktop/CSProjects/Exceptions/Zadatak01/obj/Debug/Zadatak01.exe
+/Users/milanparadina/Desktop/CSProjects/Exceptions/Zadatak01/obj/Debug/Zadatak01.pdb

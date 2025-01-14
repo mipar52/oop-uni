@@ -1,0 +1,6 @@
+/Users/milanparadina/Desktop/CSProjects/FactoryPattern/PizzaFactory/bin/Debug/PizzaFactory.exe
+/Users/milanparadina/Desktop/CSProjects/FactoryPattern/PizzaFactory/bin/Debug/PizzaFactory.pdb
+/Users/milanparadina/Desktop/CSProjects/FactoryPattern/PizzaFactory/obj/Debug/PizzaFactory.csproj.AssemblyReference.cache
+/Users/milanparadina/Desktop/CSProjects/FactoryPattern/PizzaFactory/obj/Debug/PizzaFactory.csproj.CoreCompileInputs.cache
+/Users/milanparadina/Desktop/CSProjects/FactoryPattern/PizzaFactory/obj/Debug/PizzaFactory.exe
+/Users/milanparadina/Desktop/CSProjects/FactoryPattern/PizzaFactory/obj/Debug/PizzaFactory.pdb

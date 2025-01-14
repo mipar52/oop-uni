@@ -1,0 +1,6 @@
+/Users/milanparadina/Desktop/CSProjects/FactoryPattern/RepoFactoryLib/bin/Debug/RepoFactoryLib.dll
+/Users/milanparadina/Desktop/CSProjects/FactoryPattern/RepoFactoryLib/bin/Debug/RepoFactoryLib.pdb
+/Users/milanparadina/Desktop/CSProjects/FactoryPattern/RepoFactoryLib/obj/Debug/RepoFactoryLib.csproj.AssemblyReference.cache
+/Users/milanparadina/Desktop/CSProjects/FactoryPattern/RepoFactoryLib/obj/Debug/RepoFactoryLib.csproj.CoreCompileInputs.cache
+/Users/milanparadina/Desktop/CSProjects/FactoryPattern/RepoFactoryLib/obj/Debug/RepoFactoryLib.dll
+/Users/milanparadina/Desktop/CSProjects/FactoryPattern/RepoFactoryLib/obj/Debug/RepoFactoryLib.pdb
