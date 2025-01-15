@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\oop_vjezbe14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06D24A52-4D10-4C2A-AB9D-444A3BB5F56C}|zadatak02\\zadatak02.csproj|c:\\users\\student\\source\\repos\\oop_vjezbe14\\zadatak02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D24A52-4D10-4C2A-AB9D-444A3BB5F56C}|zadatak02\\zadatak02.csproj|solutionrelative:zadatak02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D24A52-4D10-4C2A-AB9D-444A3BB5F56C}|zadatak02\\zadatak02.csproj|c:\\users\\student\\source\\repos\\oop_vjezbe14\\zadatak02\\model\\observablelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D24A52-4D10-4C2A-AB9D-444A3BB5F56C}|zadatak02\\zadatak02.csproj|solutionrelative:zadatak02\\model\\observablelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObservableList.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\oop_vjezbe14\\zadatak02\\Model\\ObservableList.cs",
+              "RelativeDocumentMoniker": "zadatak02\\Model\\ObservableList.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\oop_vjezbe14\\zadatak02\\Model\\ObservableList.cs",
+              "RelativeToolTip": "zadatak02\\Model\\ObservableList.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvzAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:39:30.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\oop_vjezbe14\\zadatak02\\Program.cs",
+              "RelativeDocumentMoniker": "zadatak02\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\oop_vjezbe14\\zadatak02\\Program.cs*",
+              "RelativeToolTip": "zadatak02\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:34:32.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
