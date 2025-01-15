@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\oop_vjezbe12\zadatak03\bin\Debug\zadatak03.exe.config
+C:\Users\Student\source\repos\oop_vjezbe12\zadatak03\bin\Debug\zadatak03.exe
+C:\Users\Student\source\repos\oop_vjezbe12\zadatak03\bin\Debug\zadatak03.pdb
+C:\Users\Student\source\repos\oop_vjezbe12\zadatak03\obj\Debug\zadatak03.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\oop_vjezbe12\zadatak03\obj\Debug\zadatak03.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\oop_vjezbe12\zadatak03\obj\Debug\zadatak03.exe
+C:\Users\Student\source\repos\oop_vjezbe12\zadatak03\obj\Debug\zadatak03.pdb
