@@ -1,0 +1,6 @@
+/Users/milanparadina/Desktop/CSProjects/exam_practice/Exceptions/bin/Debug/Exceptions.exe
+/Users/milanparadina/Desktop/CSProjects/exam_practice/Exceptions/bin/Debug/Exceptions.pdb
+/Users/milanparadina/Desktop/CSProjects/exam_practice/Exceptions/obj/Debug/Exceptions.csproj.AssemblyReference.cache
+/Users/milanparadina/Desktop/CSProjects/exam_practice/Exceptions/obj/Debug/Exceptions.csproj.CoreCompileInputs.cache
+/Users/milanparadina/Desktop/CSProjects/exam_practice/Exceptions/obj/Debug/Exceptions.exe
+/Users/milanparadina/Desktop/CSProjects/exam_practice/Exceptions/obj/Debug/Exceptions.pdb

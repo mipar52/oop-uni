@@ -1,0 +1,6 @@
+/Users/milanparadina/Desktop/CSProjects/vjezbe14.2_delegates/zadatak01/bin/Debug/zadatak01.exe
+/Users/milanparadina/Desktop/CSProjects/vjezbe14.2_delegates/zadatak01/bin/Debug/zadatak01.pdb
+/Users/milanparadina/Desktop/CSProjects/vjezbe14.2_delegates/zadatak01/obj/Debug/zadatak01.csproj.AssemblyReference.cache
+/Users/milanparadina/Desktop/CSProjects/vjezbe14.2_delegates/zadatak01/obj/Debug/zadatak01.csproj.CoreCompileInputs.cache
+/Users/milanparadina/Desktop/CSProjects/vjezbe14.2_delegates/zadatak01/obj/Debug/zadatak01.exe
+/Users/milanparadina/Desktop/CSProjects/vjezbe14.2_delegates/zadatak01/obj/Debug/zadatak01.pdb

@@ -1,0 +1,6 @@
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/delegate_practice1/bin/Debug/delegate_practice1.exe
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/delegate_practice1/bin/Debug/delegate_practice1.pdb
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/delegate_practice1/obj/Debug/delegate_practice1.csproj.AssemblyReference.cache
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/delegate_practice1/obj/Debug/delegate_practice1.csproj.CoreCompileInputs.cache
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/delegate_practice1/obj/Debug/delegate_practice1.exe
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/delegate_practice1/obj/Debug/delegate_practice1.pdb

@@ -1,7 +1,14 @@
-C:\Users\Student\source\repos\oop_vjezbe14\zadatak01\obj\Debug\zadatak01.csproj.AssemblyReference.cache
-C:\Users\Student\source\repos\oop_vjezbe14\zadatak01\obj\Debug\zadatak01.csproj.CoreCompileInputs.cache
-C:\Users\Student\source\repos\oop_vjezbe14\zadatak01\bin\Debug\zadatak01.exe.config
-C:\Users\Student\source\repos\oop_vjezbe14\zadatak01\bin\Debug\zadatak01.exe
-C:\Users\Student\source\repos\oop_vjezbe14\zadatak01\bin\Debug\zadatak01.pdb
-C:\Users\Student\source\repos\oop_vjezbe14\zadatak01\obj\Debug\zadatak01.exe
-C:\Users\Student\source\repos\oop_vjezbe14\zadatak01\obj\Debug\zadatak01.pdb
+C:/Users/Student/source/repos/oop_vjezbe14/zadatak01/obj/Debug/zadatak01.csproj.AssemblyReference.cache
+C:/Users/Student/source/repos/oop_vjezbe14/zadatak01/obj/Debug/zadatak01.csproj.CoreCompileInputs.cache
+C:/Users/Student/source/repos/oop_vjezbe14/zadatak01/bin/Debug/zadatak01.exe.config
+C:/Users/Student/source/repos/oop_vjezbe14/zadatak01/bin/Debug/zadatak01.exe
+C:/Users/Student/source/repos/oop_vjezbe14/zadatak01/bin/Debug/zadatak01.pdb
+C:/Users/Student/source/repos/oop_vjezbe14/zadatak01/obj/Debug/zadatak01.exe
+C:/Users/Student/source/repos/oop_vjezbe14/zadatak01/obj/Debug/zadatak01.pdb
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/zadatak01/bin/Debug/zadatak01.exe.config
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/zadatak01/bin/Debug/zadatak01.exe
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/zadatak01/bin/Debug/zadatak01.pdb
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/zadatak01/obj/Debug/zadatak01.csproj.AssemblyReference.cache
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/zadatak01/obj/Debug/zadatak01.csproj.CoreCompileInputs.cache
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/zadatak01/obj/Debug/zadatak01.exe
+/Users/milanparadina/Desktop/alg/2. godina/git_projects/oop-uni/exercises/vjezbe14.0/zadatak01/obj/Debug/zadatak01.pdb

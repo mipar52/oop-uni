@@ -1,0 +1,6 @@
+/Users/milanparadina/Desktop/CSProjects/exam_practice/Delegates/bin/Debug/Delegates.exe
+/Users/milanparadina/Desktop/CSProjects/exam_practice/Delegates/bin/Debug/Delegates.pdb
+/Users/milanparadina/Desktop/CSProjects/exam_practice/Delegates/obj/Debug/Delegates.csproj.AssemblyReference.cache
+/Users/milanparadina/Desktop/CSProjects/exam_practice/Delegates/obj/Debug/Delegates.csproj.CoreCompileInputs.cache
+/Users/milanparadina/Desktop/CSProjects/exam_practice/Delegates/obj/Debug/Delegates.exe
+/Users/milanparadina/Desktop/CSProjects/exam_practice/Delegates/obj/Debug/Delegates.pdb
