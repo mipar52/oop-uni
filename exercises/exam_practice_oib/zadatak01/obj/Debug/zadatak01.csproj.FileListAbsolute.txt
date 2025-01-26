@@ -1,0 +1,7 @@
+E:\Faks_Racunarstvo\Treci semestar\git_projects\oop\exercises\exam_practice_oib\zadatak01\bin\Debug\zadatak01.exe.config
+E:\Faks_Racunarstvo\Treci semestar\git_projects\oop\exercises\exam_practice_oib\zadatak01\bin\Debug\zadatak01.exe
+E:\Faks_Racunarstvo\Treci semestar\git_projects\oop\exercises\exam_practice_oib\zadatak01\bin\Debug\zadatak01.pdb
+E:\Faks_Racunarstvo\Treci semestar\git_projects\oop\exercises\exam_practice_oib\zadatak01\obj\Debug\zadatak01.csproj.AssemblyReference.cache
+E:\Faks_Racunarstvo\Treci semestar\git_projects\oop\exercises\exam_practice_oib\zadatak01\obj\Debug\zadatak01.csproj.CoreCompileInputs.cache
+E:\Faks_Racunarstvo\Treci semestar\git_projects\oop\exercises\exam_practice_oib\zadatak01\obj\Debug\zadatak01.exe
+E:\Faks_Racunarstvo\Treci semestar\git_projects\oop\exercises\exam_practice_oib\zadatak01\obj\Debug\zadatak01.pdb
