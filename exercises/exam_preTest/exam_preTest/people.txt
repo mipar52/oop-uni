@@ -1,0 +1,6 @@
+01234567891|Daniel|Bele|01121221|dnlbele@gmail.com
+0891124523|Milica|Krmpotic|12122101|mk@gmail.com
+5678L101234|Gojko|Mrnjavcevic|12120121|gm@gmail.com
+10125678934||Mrnjavcevic|12120121|gm@gmail.com
+23456789101|||12120121|
+01234567891|Daniel|Bele|01121221|dnlbele@gmail.com

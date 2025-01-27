@@ -1,0 +1,7 @@
+E:\Faks_Racunarstvo\Treci semestar\OOP\exam_preTest\exam_preTest\obj\Debug\exam_preTest.csproj.AssemblyReference.cache
+E:\Faks_Racunarstvo\Treci semestar\OOP\exam_preTest\exam_preTest\obj\Debug\exam_preTest.csproj.CoreCompileInputs.cache
+E:\Faks_Racunarstvo\Treci semestar\OOP\exam_preTest\exam_preTest\bin\Debug\exam_preTest.exe.config
+E:\Faks_Racunarstvo\Treci semestar\OOP\exam_preTest\exam_preTest\bin\Debug\exam_preTest.exe
+E:\Faks_Racunarstvo\Treci semestar\OOP\exam_preTest\exam_preTest\bin\Debug\exam_preTest.pdb
+E:\Faks_Racunarstvo\Treci semestar\OOP\exam_preTest\exam_preTest\obj\Debug\exam_preTest.exe
+E:\Faks_Racunarstvo\Treci semestar\OOP\exam_preTest\exam_preTest\obj\Debug\exam_preTest.pdb
